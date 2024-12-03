@@ -16,3 +16,11 @@ This repository contains the code for the experiments presented in the paper "In
   
 - `vocabulary_based_matching.py'
   Construction of a vocabulary dictionary used to measure media bias based on vocabulary.
+
+# Citation
+@article{lin2024investigating,
+  title={Investigating Bias in LLM-Based Bias Detection: Disparities between LLMs and Human Perception},
+  author={Lin, Luyang and Wang, Lingzhi and Guo, Jinsong and Wong, Kam-Fai},
+  journal={arXiv preprint arXiv:2403.14896},
+  year={2024}
+}
